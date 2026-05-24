@@ -44,7 +44,7 @@ When you type `/floorplan` or describe a layout need, Claude will:
 ## Install
 
 ```bash
-npx skills add YOUR_GITHUB_USERNAME/floor-plan-ai
+npx skills add CHUUTA0/floor-plan-ai
 ```
 
 ---
